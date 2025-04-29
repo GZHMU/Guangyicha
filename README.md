@@ -17,4 +17,11 @@
 <a href="https://gmu.cbu.net/">https://gmu.cbu.net/</a>
 </h2>
 
+<h2>
+  更新日志
+</h2>
+<ul>
+  <li>2025-04-29 新增使用拼音查询姓名功能</li>
+</ul>
+
 [homepage]: https://gmu.cbu.net/
