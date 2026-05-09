@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="static/guangyicha.png" alt="Guangyicha" width="128" />
   <br>
-  <a href="https://gmu.cbu.net/">广医查(Guangyicha)</a>
+  <a href="https://gzhmu.mooo.com">广医查(Guangyicha)</a>
   <br>
 </h1>
 
@@ -13,16 +13,19 @@
 
 &emsp;&emsp;只须验证你的广医人身份就能使用，通过学号或姓名就能找到他的联系方式，快打开下方链接试试看吧！
 
+&emsp;&emsp;（如打不开请使用科学上网）
+
 <h2 align="center">
-<a href="https://gmu.cbu.net/">https://gmu.cbu.net/</a>
+<a href="https://gzhmu.mooo.com">https://gzhmu.mooo.com</a>
 </h2>
 
 <h2>
   更新日志
 </h2>
 <ul>
+  <li>2026-05-10 更新网站域名。</li>
   <li>2025-06-15 新增号码模糊查询功能，开启后可以通过给出手机号码的前3位及后4位查询匹配的结果，例如，在搜索框输入：123****4567，那么就能找到所有以123开头并且以4567结尾的手机号码。
   <li>2025-04-29 新增使用拼音查询姓名功能</li>
 </ul>
 
-[homepage]: https://gmu.cbu.net/
+[homepage]: https://gzhmu.mooo.com
